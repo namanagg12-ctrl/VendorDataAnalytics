@@ -1,0 +1,5 @@
+# SQL Queries
+
+This folder contains 11 SQL queries used for exploring and validating data alongside the main analysis performed in Python and Power BI. These queries were helpful during the initial data exploration phase to understand the dataset and verify data quality.
+
+While the primary data analysis was conducted using Python and the results were visualized in Power BI, these SQL queries serve as a useful reference and can be executed directly in MySQL Workbench or any SQL client connected to the project database.
